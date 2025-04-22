@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/replic_of_doc/RiceDiseaseDataset_yolo_test/images/train
+val: /content/drive/MyDrive/replic_of_doc/RiceDiseaseDataset_yolo_test/images/val
+test: /content/drive/MyDrive/replic_of_doc/RiceDiseaseDataset_yolo_test/images/test
+
+nc: 3
+names: ['Brown_Spot', 'Rice_Blast', 'Bacterial_Blight']
